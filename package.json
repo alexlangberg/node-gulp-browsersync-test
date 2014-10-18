@@ -20,5 +20,9 @@
     "url": "https://github.com/alexlangberg/node-gulp-browsersync-test/issues"
   },
   "homepage": "https://github.com/alexlangberg/node-gulp-browsersync-test",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "browser-sync": "^1.5.8",
+    "gulp": "^3.8.8"
+  }
 }
