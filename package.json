@@ -1,0 +1,24 @@
+{
+  "name": "node-gulp-browsersync-test",
+  "version": "0.0.0",
+  "description": "Test of gulp with browsersync",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexlangberg/node-gulp-browsersync-test.git"
+  },
+  "keywords": [
+    "gulp",
+    "browsersync"
+  ],
+  "author": "Alex Langberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexlangberg/node-gulp-browsersync-test/issues"
+  },
+  "homepage": "https://github.com/alexlangberg/node-gulp-browsersync-test",
+  "private": true
+}
